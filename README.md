@@ -32,6 +32,25 @@ Target values:
 - '1' - Presence of heart disease
 - '0' - Absence of heart disease
 
+## Project Structure
+├── admin/
+├── assets/
+├── heart/
+├── media/
+├── users/
+├── db.sqlite3
+├── manage.py
+
+## Project Workflow
+
+1. Data Collection and Processing
+   - Dataset preprocessing to clean and format data.
+   - Splitting the data into training (70%) and testing (30%) sets.
+2. Model Training
+   - Training ML models: Logistic Regression, SVM, KNN, and Decision Tree.
+3. Model Evaluation
+   - Evaluating accuracy for each model.
+
 ## How to Run the Project  
 1. Clone this repository:  
    ```bash
@@ -61,3 +80,25 @@ Target values:
 - Predict different types of cardiovascular diseases.
 - Provide personalized health recommendations.
 - Integrate advanced machine learning models.
+
+## Contributing
+
+Contributions are welcome!
+To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your message here"
+4. Push the changes:
+   ```bash
+   git push origin feature-name
+5. Create a pull request.
+
+## Contact
+
+For any inquiries or suggestions, feel free to reach out:
+Email: keerthireddy0508@gmail.com
