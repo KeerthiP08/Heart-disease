@@ -37,12 +37,16 @@ Target values:
    ```bash
    git clone <repository-url>
 2. Navigate to the project directory:
+   ```bash
    cd <project-folder>
 3. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
 4. Apply migrations:
+   ```bash
    python manage.py migrate
 5. Run the server:
+   ```bash
    python manage.py runserver
 6. Open the application in your browser:
    http://127.0.0.1:8000
