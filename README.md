@@ -32,16 +32,6 @@ Target values:
 - '1' - Presence of heart disease
 - '0' - Absence of heart disease
 
-## Project Structure
-
-admin/
-assets/
-heart/
-media/
-users/
-db.sqlite3
-manage.py
-
 ## How to Run the Project  
 1. Clone this repository:  
    ```bash
