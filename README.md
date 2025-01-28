@@ -56,13 +56,6 @@ manage.py
    python manage.py runserver
 6. Open the application in your browser:
    http://127.0.0.1:8000
-   
-## Output Screens
-
-**Home Page:** Interface for entering patient details.
-**Prediction Page:** Displays the prediction result (e.g., "Heart Disease Detected" or "No Heart Disease Detected").
-**Accuracy Comparison:** Graph or table showing accuracy metrics for the ML models used.
-**Admin Panel:** Example of the admin interface for managing users and data.
 
 ## Results
 
