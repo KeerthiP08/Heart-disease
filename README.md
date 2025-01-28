@@ -34,17 +34,11 @@ Target values:
 
 ## Project Structure
 ├── admin/
-
 ├── assets/
-
 ├── heart/
-
 ├── media/
-
 ├── users/
-
 ├── db.sqlite3
-
 ├── manage.py 
 
 ## Project Workflow
