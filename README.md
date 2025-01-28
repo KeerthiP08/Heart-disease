@@ -33,12 +33,18 @@ Target values:
 - '0' - Absence of heart disease
 
 ## Project Structure
-├── admin/ 
-├── assets/ 
-├── heart/ 
-├── media/ 
-├── users/ 
-├── db.sqlite3 
+├── admin/
+
+├── assets/
+
+├── heart/
+
+├── media/
+
+├── users/
+
+├── db.sqlite3
+
 ├── manage.py 
 
 ## Project Workflow
@@ -100,5 +106,6 @@ To contribute:
 
 ## Contact
 
-For any inquiries or suggestions, feel free to reach out: 
+For any inquiries or suggestions, feel free to reach out:
+
 Email: keerthireddy0508@gmail.com
