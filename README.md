@@ -33,13 +33,13 @@ Target values:
 - '0' - Absence of heart disease
 
 ## Project Structure
-├── admin/
-├── assets/
-├── heart/
-├── media/
-├── users/
-├── db.sqlite3
-├── manage.py
+├── admin/ 
+├── assets/ 
+├── heart/ 
+├── media/ 
+├── users/ 
+├── db.sqlite3 
+├── manage.py 
 
 ## Project Workflow
 
@@ -54,7 +54,7 @@ Target values:
 ## How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/KeerthiP08/Heart-disease>
 2. Navigate to the project directory:
    ```bash
    cd <project-folder>
@@ -100,5 +100,5 @@ To contribute:
 
 ## Contact
 
-For any inquiries or suggestions, feel free to reach out:
+For any inquiries or suggestions, feel free to reach out: 
 Email: keerthireddy0508@gmail.com
