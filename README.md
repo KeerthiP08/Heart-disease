@@ -33,13 +33,13 @@ Target values:
 - '0' - Absence of heart disease
 
 ## Project Structure
-|-- admin/
-|-- assets/
-|-- heart/
-|-- media/
-|-- users/
-|-- db.sqlite3
-|-- manage.py
+|-- admin/           
+|-- assets/             
+|-- heart/                
+|-- media/              
+|-- users/           
+|-- db.sqlite3                 
+|-- manage.py                    
 
 ## Project Workflow
 
